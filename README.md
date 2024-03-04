@@ -1,6 +1,6 @@
 # shotspotter-locations
 
-**[View the map in Github](shots.geojson)]**
+**[View the map in Github](shots.geojson)**
 
 Leaked data on the location of [ShotSpotter listening devices](https://www.soundthinking.com/). Based on [info from J.B Crawford](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html).
 
